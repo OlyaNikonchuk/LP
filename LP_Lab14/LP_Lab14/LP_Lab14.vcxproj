@@ -147,6 +147,7 @@
     <ClCompile Include="LP_Lab14.cpp" />
     <ClCompile Include="LT.cpp" />
     <ClCompile Include="Parm.cpp" />
+    <ClCompile Include="PolishNotation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Error.h" />
